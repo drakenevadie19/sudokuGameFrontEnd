@@ -1,4 +1,4 @@
-# sudokuGame
+# sudokuGameFrontEnd
 - Inspired by traditional sudoku games, I designed a web page for users to solve their mazes, and also play Sudoku there
 - There are 2 parts in this game: 
   - Users type in their mazes and they can be solved/identify whether they can be solved or not.
